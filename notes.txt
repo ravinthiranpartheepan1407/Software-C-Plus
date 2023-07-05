@@ -1,0 +1,8 @@
+Note:
+    - The :: is called scope resolution
+    - If we use "using namespace std" in the header then we don't need to call it with iostream modules
+    - If we are going to use cout and cin then we need to include <iostream> or <iostream.h>
+    -- Dtypes:
+        - Userdefined dtype: enums, strutcs, union, class
+        - Primitive dtype: bool, int, char, double
+        - Derived dtype: array, pointer, reference
