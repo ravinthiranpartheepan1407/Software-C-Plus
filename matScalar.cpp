@@ -4,7 +4,7 @@ using namespace std;
 
 // Element-wise ops
 
-void matScalar(int rowSize, int columnSize, int scalar, int values)
+void matScalar(int rowSize, int columnSize, int scalar, int values) // Time Complexity: O(n ^ 2)
 {
     int matrix[rowSize][columnSize] = {{3, 3}, {4, 4}, {5, 5}, {6, 6}, {7, 7}}; // Replace values with arrValues
     for (int rowIndex = 0; rowIndex < rowSize; rowIndex++)
