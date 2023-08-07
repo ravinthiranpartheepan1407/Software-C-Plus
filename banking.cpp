@@ -1,4 +1,4 @@
-// Loops: Decision Making, While, For, Do While, Nested Loop
+// Loops: Decision Making, While, For, Do While, Nested Loops
 #include <iostream>
 #include <cstdlib>
 #include <string>
